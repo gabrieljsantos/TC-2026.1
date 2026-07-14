@@ -56,4 +56,4 @@ Para nortear o estilo de escrita e o nível de complexidade, disponibilizamos du
 
 ---
 
-A saida geral deve está em uma pasta chamada "Trabalho-TC-main" nos molde do projeto base.
+# A saida geral deve está em uma pasta chamada "Trabalho-TC-main" nos molde do projeto base.
