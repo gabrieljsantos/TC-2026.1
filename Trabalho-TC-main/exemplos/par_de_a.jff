@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure>
+	<type>fa</type>
+	<automaton>
+		<state id="0" name="p0"><x>100</x><y>200</y><initial/><final/></state>
+		<state id="1" name="p1"><x>200</x><y>200</y></state>
+		<transition><from>0</from><to>1</to><read>a</read></transition>
+		<transition><from>1</from><to>0</to><read>a</read></transition>
+		<transition><from>0</from><to>0</to><read>b</read></transition>
+		<transition><from>1</from><to>1</to><read>b</read></transition>
+	</automaton>
+</structure>
